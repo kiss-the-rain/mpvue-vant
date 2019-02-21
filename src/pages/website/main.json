@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "官网",
+  "usingComponents": {
+    "van-button": "/static/vant/button/index",
+    "van-icon": "/static/vant/icon/index",
+    "van-tab": "/static/vant/tab/index",
+    "van-tabs": "/static/vant/tabs/index",
+    "van-card": "/static/vant/card/index",
+    "van-cell": "/static/vant/cell/index",
+    "van-cell-group": "/static/vant/cell-group/index",
+    "van-popup": "/static/vant/popup/index",
+    "van-field": "/static/vant/field/index",
+    "van-row": "/static/vant/row/index",
+    "van-col": "/static/vant/col/index",
+    "van-tag": "/static/vant/tag/index",
+    "van-dialog": "/static/vant/dialog/index",
+    "van-loading": "/static/vant/loading/index"
+  }
+}

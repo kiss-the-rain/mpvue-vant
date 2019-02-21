@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/mall/index/main",
+    "pages/counter/main",
+    "pages/timeline/main",
+    "pages/timeline/create/main",
+    "pages/auth/main",
+    "pages/cardCollector/main",
+    "pages/website/main",
+    "pages/user/main",
+    "pages/team/joinTeam/main",
+    "pages/team/teamApply/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#b3b3b3",
+    "selectedColor": "#2b85e4",
+    "backgroundColor": "white",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "text": "首页",
+        "iconPath": "/static/images/icon1.png",
+        "selectedIconPath": "/static/images/sicon1.png"
+      },
+      {
+        "pagePath": "pages/mall/index/main",
+        "text": "商城",
+        "iconPath": "/static/images/icon2.png",
+        "selectedIconPath": "/static/images/sicon2.png"
+      },
+      {
+        "pagePath": "pages/timeline/main",
+        "text": "动态",
+        "iconPath": "/static/images/icon3.png",
+        "selectedIconPath": "/static/images/sicon3.png"
+      },
+      {
+        "pagePath": "pages/website/main",
+        "text": "官网",
+        "iconPath": "/static/images/icon3.png",
+        "selectedIconPath": "/static/images/icon_business card_orange.png"
+      }
+    ]
+  }
+}
